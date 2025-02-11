@@ -35,10 +35,10 @@ export async function getFeed() {
     const data = response.data;
 
     data.response.forEach((partida: Partida) => {
-      partidas.value.push(partida)
+      partidas.value.push(partida);
 
       partida.videos.forEach((video: Video) => {
-        videos.value.push(video)
+        videos.value.push(video);
       })
     })
   })
