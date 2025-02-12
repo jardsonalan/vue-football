@@ -22,7 +22,7 @@ interface ApiResponse {
 }
 
 // Token da Aplicação
-const token = 'MTk4MDEzXzE3MzkyMDY1MzVfYTc2NzI2NmYxM2I4ZDI5OGM5ZTQyOGI0MjMzZDFiOTRiODU5YjMzOA==';
+const token = import.meta.env.VITE_TOKEN;
 
 // Listas de Objetos com os atributos da API
 export const partidas = ref<Partida[]>([]);
