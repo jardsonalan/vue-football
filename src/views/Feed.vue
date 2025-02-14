@@ -8,7 +8,6 @@ onMounted(getFeed);
 </script>
 
 <template>
-  <main>
     <VContainer>
       <VRow no-gutters>
         <VCol
@@ -28,7 +27,6 @@ onMounted(getFeed);
         </VCol>
       </VRow>
     </VContainer>
-  </main>
 </template>
 
 <style lang="scss" scoped>
