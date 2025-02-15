@@ -10,8 +10,6 @@ O **Vue Football** é um site que exibe, em tempo real, os resultados mais recen
 
 🔗 **Acesse a versão online:** [Vue Football](https://jardsonalan.github.io/vue-football/)  
 
----
-
 ## 🚀 Tecnologias utilizadas  
 O projeto foi desenvolvido utilizando as seguintes tecnologias:  
 
@@ -19,8 +17,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - 🔷 **TypeScript** – Para maior segurança e organização do código;  
 - 🎨 **Vuetify** – Biblioteca de componentes para um design responsivo e estilizado;  
 - 🔗 **Scorebat API** – Para obter dados atualizados sobre partidas de futebol.  
-
----
 
 ## 📥 Como executar o projeto  
 
@@ -44,12 +40,8 @@ npm install
 npm run dev
 ```
 
----
-
 ## 📡 Consumo da API
 O **Vue Football** utiliza a **Scorebat API** para exibir os resultados das partidas. Caso queira personalizar ou testar outras APIs de futebol, você pode modificar a configuração no código.
-
----
 
 ## 📌 Contribuindo
 Contribuições são bem-vindas! Se quiser sugerir melhorias ou adicionar novos recursos:
@@ -70,8 +62,6 @@ Contribuições são bem-vindas! Se quiser sugerir melhorias ou adicionar novos 
    git push origin minha-feature
    ```
 5. Abra um **Pull Request** 🚀
-
----
 
 ## 📄 Licença
 Este projeto está sob a licença **MIT** – veja o arquivo LICENSE para mais detalhes.
